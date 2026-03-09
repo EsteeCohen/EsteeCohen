@@ -1,6 +1,6 @@
 # Hey, I'm Estee 👋
 
-CS student at BGU building things that actually work.
+SE student at BGU building things that actually work.
 
 I spend most of my time writing Java backends, React frontends,
 and figuring out why the two won't talk to each other.
