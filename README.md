@@ -1,12 +1,13 @@
 
 
-<!-- ===== TOP BANNER: big animated typing text (your signature look) ===== -->
+<!-- ===== NAME: types once, then stays (no annoying re-loop) ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&pause=900&color=8A2BE2&center=true&vCenter=true&width=750&height=70&lines=Hi+there%2C+I'm+Estee+%F0%9F%91%8B" alt="name banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&pause=99999999&color=FF69B4&center=true&vCenter=true&repeat=false&width=750&height=70&lines=Hi+there%2C+I'm+Estee+%F0%9F%91%8B" alt="name banner"/>
 </p>
 
+<!-- ===== SUBTITLE: keeps rotating ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=20B2AA&center=true&vCenter=true&width=750&height=45&lines=Software+Engineering+Student+%40+BGU;Full-stack+developer;Hackathon+winner;I+teach+girls+to+code+%40+QueenB+%F0%9F%92%9C" alt="subtitle banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=F4B400&center=true&vCenter=true&width=750&height=45&lines=Software+Engineering+Student+%40+BGU;Atidim+Program;Hackathon+winner;I+teach+girls+to+code+%40+QueenB+%F0%9F%92%9C" alt="subtitle banner"/>
 </p>
 
 <p align="center">
