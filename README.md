@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/EsteeCohen/EsteeCohen/raw/master/output.gif" alt="A little bit about me!" width="900"/>
+  <img src="https://github.com/EsteeCohen/EsteeCohen/raw/main/intro.gif" alt="A little bit about me!" width="900"/>
 </p>
 
 <p align="center">
