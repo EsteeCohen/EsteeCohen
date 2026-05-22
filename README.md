@@ -2,14 +2,6 @@
 
 SE student at BGU building things that actually work.
 
-I spend most of my time writing Java backends, React frontends,
-and figuring out why the two won't talk to each other.
-Recently shipped a full supply-chain management system —
-two integrated subsystems, shared SQLite DB, interface-based DI,
-the whole thing. It's pinned below if you're curious.
-
-Currently leveling up in: full-stack, competitive programming,
-and making my code readable to people who aren't me.
 
 ---
 
