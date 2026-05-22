@@ -1,20 +1,7 @@
-<!--
-  ════════════════════════════════════════════════════════════════
-  HOW TO USE THIS FILE
-  1. Create a new repo on GitHub named EXACTLY "EsteeCohen" (same as
-     your username). Make it Public, check "Add a README".
-  2. Replace that README.md with everything below this comment block.
-  3. Replace placeholders marked  <<< ... >>>  with your real links.
-  4. Commit & push. GitHub shows it automatically at the top of your profile.
 
-  NOTES:
-  - The stats / streak / top-languages widgets are live and auto-update.
-    They only count PUBLIC repos by default. count_private=true helps a bit.
-  - Theme options & docs: https://github.com/anuraghazra/github-readme-stats
-  ════════════════════════════════════════════════════════════════
--->
-
-<h1 align="center">Hi there, I'm Estee 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Estee+%F0%9F%91%8B;Software+Engineering+Student+%40+BGU;Full-stack+dev+%7C+Open+source+%7C+AI-curious;I+teach+girls+to+code+%40+QueenB+%F0%9F%92%9C" alt="intro typing banner"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/esteehayacohen">
@@ -32,20 +19,9 @@ const estee = {
   role: "Software Engineering Student @ Ben-Gurion University",
   program: "Atidim Excellence Program",
   graduating: 2027,
-  currentFocus: ["full-stack dev", "cloud-native tools", "open source"],
-  learning: ["Kubernetes / OpenShift", "AI-assisted development"],
   funFact: "I teach the next generation of women in tech @ QueenB 💜",
 };
 ```
-
-### 🚀 A little about me
-
-- 🎓 Third-year **Software Engineering** student, member of the **Atidim** excellence program
-- 💻 I build with **React, TypeScript, Node.js** — and I'm comfortable down to the kernel level in **C** (xv6 / system calls)
-- 🏆 **Winner — BeSafe Hackathon 2025** (AppsFlyer × QueenB)
-- 👩‍🏫 Two years teaching programming to middle & high school girls as a **[QueenB](https://queenb.co.il/)** instructor
-- 🤖 I love working with **AI-assisted development tools** (Claude Code, GitHub Copilot)
-- 🌱 Currently exploring the **OpenShift / KubeVirt** ecosystem and contributing to open source
 
 ---
 
@@ -70,27 +46,10 @@ const estee = {
 
 ---
 
-### 📊 GitHub in numbers
+### 😄 A random dev joke, just for you
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsteeCohen&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="Estee's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsteeCohen&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=default" alt="Jokes Card — refreshes every visit"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EsteeCohen&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description |
-| --- | --- |
-| **[SafeNet](https://github.com/EsteeCohen/BeSafeHackathon)** | 🏆 Hackathon-winning digital-literacy platform with real-time multiplayer games (React, Node.js, WebSocket) |
-| **[xv6 Operating System](<<< LINK TO YOUR xv6 REPO — or delete this row if private >>>)** | Kernel-level system calls & a coroutine scheduler in C (RISC-V, QEMU) |
-| **[LeetCode](https://github.com/EsteeCohen/LeetCode)** | Algorithm & data-structure practice, with complexity analysis |
-
----
 
 <p align="center"><i>✨ Always learning, always building. Let's connect! ✨</i></p>
