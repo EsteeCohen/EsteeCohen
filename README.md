@@ -15,6 +15,7 @@ const estee = {
   proudOf: "Winning the BeSafe Hackathon 2025 with SafeNet 🏆",
   funFact: "I teach the next generation of women in tech @ QueenB 💖",
 };
+```
 
 ### 😄 A random dev joke, just for you
  
